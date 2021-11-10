@@ -12,11 +12,19 @@ Arr[(2*i)+2] Returns the right child node.
 
 ## Objective
 
-### [MaxHeap.java](https://github.com/PPL-Project/MaxHeap/blob/master/MaxHeap.java)
+### <ins>[MaxHeap.java](https://github.com/PPL-Project/MaxHeap/blob/master/MaxHeap.java)</ins>
+This class holds the basic functions for a max heap including insertion, deletion, heapifyUp, heapifyDown, find elements, pre-order traversal.
 
-### [MaxHeap_Test.java](https://github.com/PPL-Project/MaxHeap/blob/master/MaxHeap_Test.java)
+One of the main functions that update the stage after insertion, deletion, and finding:<br/>
+**private void displayingTree(int index, double x, double y, double yDiff, Pane pane,int num)**<br/><br/>
+This function creates each node, lines between each level, calculates the distance between each level for displaying as many nodes as possible. This function also ensures changing the color of the nodes depending on the operations.
 
-### UML Diagram
+### <ins>[MaxHeap_Test.java](https://github.com/PPL-Project/MaxHeap/blob/master/MaxHeap_Test.java)</ins>
+This class creates the main UI for the application. It sets the complete stage, creating fields, stage for displaying the tree in the middle using HBox, VBox, Panes, Labels, Buttons, and TextFields. 
+
+It also keeps track of the height and number of nodes, giving proper errors and pop-ups on the successful execution of the operations.
+
+### <ins>UML Diagram</ins>
 <img src="https://github.com/PPL-Project/MaxHeap/blob/master/Project_CSD203-2020_Aditya_Jayati_UML.png" width="600" height="500">
 <br/>
 
