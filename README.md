@@ -12,9 +12,9 @@ Arr[(2*i)+2] Returns the right child node.
 
 ## Objective
 
-### MaxHeap.java
+### [MaxHeap.java](https://github.com/PPL-Project/MaxHeap/blob/master/MaxHeap.java)
 
-### MaxHeap_Test.java
+### [MaxHeap_Test.java](https://github.com/PPL-Project/MaxHeap/blob/master/MaxHeap_Test.java)
 
 ### UML Diagram
 <img src="https://github.com/PPL-Project/MaxHeap/blob/master/Project_CSD203-2020_Aditya_Jayati_UML.png" width="600" height="500">
