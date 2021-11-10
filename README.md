@@ -2,6 +2,8 @@
 # Description
 This is a Max-Heap Visualizer where you can add, delete and find elements. The height and number of nodes are updated simultaneously with each insertion and deletion. It also comes with the feature of printing the pre-order traversal of the tree.
 
+Created using **Java**, **JavaFX**
+
 ## Max-Heap
 A Max-Heap is a Complete Binary Tree. A-Max heap is typically represented as an array. The root element will be at Arr[0]. Below table shows indexes of other nodes for the ith node, i.e., Arr[i]: 
 ```
