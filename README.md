@@ -1,11 +1,24 @@
 # <ins>Max-Heap</ins>
 # Description
+This is a Max-Heap Visualizer where you can add, delete and find elements. The height and number of nodes are updated simultaneously with each insertion and deletion. It also comes with the feature of printing the pre-order traversal of the tree.
 
+## Max-Heap
+A Max-Heap is a Complete Binary Tree. A-Max heap is typically represented as an array. The root element will be at Arr[0]. Below table shows indexes of other nodes for the ith node, i.e., Arr[i]: 
+```
+Arr[(i-1)/2] Returns the parent node. 
+Arr[(2*i)+1] Returns the left child node. 
+Arr[(2*i)+2] Returns the right child node.
+```
 
-## A. Rules
+## Objective
 
-## B. Objective
+### MaxHeap.java
 
+### MaxHeap_Test.java
+
+### UML Diagram
+<img src="https://github.com/PPL-Project/MaxHeap/blob/master/Project_CSD203-2020_Aditya_Jayati_UML.png" width="600" height="500">
+<br/>
 
 # Local Setup
 
