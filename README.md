@@ -61,5 +61,4 @@ An IDE that supports Java and JavaFX.
 <br/>
 
 # Contact
-## 1. [Aditya Srivastava](mailto:aditya26052002@gmail.com?subject=GitHub)
-## 2. Jayati Sharma
+## 1. [Aditya Srivastava](mailto:aditya26052002@gmail.com?subject=GitHub)<br/><br/>2. Jayati Sharma
